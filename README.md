@@ -1,2 +1,2 @@
 
-This is Project-44 by Ankita Lahri
+This is Project-44
